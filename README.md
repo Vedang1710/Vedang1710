@@ -33,7 +33,7 @@ I enjoy learning new tools, experimenting with ideas, and continuously improving
 
 <h4>Web & Scripting Technologies</h4>
 <ul>
-  <li>Next.js (learning)</li>
+  <li>Next.js </li>
   <li>Python scripting</li>
 </ul>
 
@@ -41,6 +41,7 @@ I enjoy learning new tools, experimenting with ideas, and continuously improving
 <ul>
   <li>NumPy</li>
   <li>Pandas</li>
+  <li>Scikit-Learn</li>
 </ul>
 
 <h4>Databases & DBMS</h4>
