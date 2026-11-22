@@ -1,14 +1,14 @@
 <!-- ============================================================
      HEADER: Name, tagline & social badges
      ============================================================ -->
-<h1>Hi 👋, I'm Vedang Pathak</h1>
+<h1 align="center">Hi 👋, I'm Vedang Pathak</h1>
 
-<h3>
+<h3 align="center">
   Undergraduate Data Science Student | Data-Driven Problem Solver | Tech & Innovation Explorer
 </h3>
 
 <!-- Social badges: LinkedIn, Email, Location -->
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/pathak-vedang/"><img src="https://img.shields.io/badge/LinkedIn-pathak--vedang-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:pathakvedang17@gmail.com"><img src="https://img.shields.io/badge/Email-pathakvedang17@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <img src="https://img.shields.io/badge/Location-Nagpur,_India-2ea44f?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
